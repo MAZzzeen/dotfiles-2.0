@@ -1,5 +1,5 @@
 # dotfiles-2.0
-my dotfiles
+I use Arch btw
 <br>
 <details>
     <summary><b>Looks</b></summary>
@@ -18,7 +18,7 @@ Launcher: Rofi with theme from Rofi by adi1090x<br>
 Bar: Waybar
 </details>
 
-* **The rest of the apps I use can be found in `neededapps.txt`
+**The rest of the apps I use can be found in `neededapps.txt`**
 
 previews:
 
