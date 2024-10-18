@@ -1,29 +1,21 @@
 # dotfiles-2.0
 my dotfiles
-<br><br>
+<br>
 <details>
-    <summary>Looks</summary>
-Theme: Nordic
-
-Icons: Qogir
-
+    <summary><b>Looks</b></summary>
+Theme: Nordic<br>
+Icons: Qogir<br>
 Cursor: Bibata Modern Cursors
 </details>
-<br><br>
+<br>
 <details>
-<summary>Apps</summary>
-Terminal: Alacritty
-
-File manager: Yazi
-
-Text Editor: NvChad
-
-Browser: Firefox with FF-ULTIMA
-
-Discord client: Vesktop
-
-Launcher: Rofi with theme from Rofi by adi1090x
-
+<summary><b>Apps</b></summary>
+Terminal: Alacritty<br>
+File manager: Yazi<br>
+Text Editor: NvChad<br>
+Browser: Firefox with FF-ULTIMA<br>
+Discord client: Vesktop<br>
+Launcher: Rofi with theme from Rofi by adi1090x<br>
 Bar: Waybar
 </details>
 
