@@ -25,4 +25,7 @@ nwg-look
 starship
 stow
 tree
+zoxide
+fzf
+fzf-tab
 waybar
