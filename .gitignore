@@ -1,7 +1,7 @@
-./.mozilla
+.mozilla
 
-./.config/nvim
+.config/nvim
 
-./.stow-local-ignore
+.stow-local-ignore
 
-./neededapps.txt
+neededapps.txt
