@@ -21,11 +21,13 @@ Bar: Waybar
 **The rest of the apps I use can be found in `neededapps.txt`**
 
 <details>
-    <summary>MPV Scripts</summary>
+    <summary><b>MPV Scripts</b></summary>
 mpv-osc-modern by maoiscat<br>
 mpv-notify-send by Parranoh<br>
 mpv-playlistmanager by jonniek
 </details>
 
 previews:
-
+![alt text](https://i.imgur.com/SNy0qwN.png)
+![alt text](https://i.imgur.com/GMKH4j5.png)
+![alt text](https://i.imgur.com/BU2lngt.png)
