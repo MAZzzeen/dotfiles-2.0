@@ -1,7 +1,12 @@
 # dotfiles-2.0
 my dotfiles
+<br><br>
+Theme: Nordic
 
+Icons: Qogir
 
+Cursor: Bibata Modern Cursors
+<br><br>
 Terminal: Alacritty
 
 File manager: Yazi
