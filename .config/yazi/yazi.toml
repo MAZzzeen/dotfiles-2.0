@@ -1,0 +1,5 @@
+[manager]
+sort_dir_first = true
+scrolloff = 5
+[preview]
+wrap = "yes"

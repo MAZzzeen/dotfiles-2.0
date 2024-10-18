@@ -1,0 +1,46 @@
+# ~/.config/alacritty/alacritty.toml
+
+# Font configuration
+[font]
+normal.family = "FiraCode Nerd Font Mono"
+normal.style = "Regular"
+size = 12
+
+# Window configuration
+[window]
+dynamic_padding = true
+decorations = "full"
+padding.x = 18
+padding.y = 18
+dimensions.columns = 100
+dimensions.lines = 22
+
+# Nord color scheme
+[colors]
+# Default colors
+primary.background = "#2E3440"  # Nord0
+primary.foreground = "#D8DEE9"  # Nord4
+
+[colors.normal]
+# Normal colors
+black = "#3B4252"  # Nord1
+red = "#BF616A"    # Nord11
+green = "#A3BE8C"  # Nord10
+yellow = "#EBCB8B" # Nord13
+blue = "#81A1C1"   # Nord12
+magenta = "#B48EAD" # Nord14
+cyan = "#88C0D0"   # Nord8
+white = "#E5E9F0"  # Nord7
+
+
+[colors.bright]
+# Bright colors
+black = "#4C566A"  # Nord2
+red = "#BF616A"    # Nord11
+green = "#A3BE8C"  # Nord10
+yellow = "#EBCB8B" # Nord13
+blue = "#81A1C1"   # Nord12
+magenta = "#B48EAD" # Nord14
+cyan = "#88C0D0"   # Nord8
+white = "#FFFFFF"   # or use #E5E9F0 for a softer bright white
+

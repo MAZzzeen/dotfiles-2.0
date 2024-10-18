@@ -1,0 +1,47 @@
+# ~/.config/starship.toml
+
+# Prompt format
+format = """$username$hostname$directory$git_branch$git_state$git_status$cmd_duration$line_break$python$character"""
+
+# Directory style
+[directory]
+style = "blue"
+
+# Character symbols
+[character]
+success_symbol = "[❯](purple)"
+error_symbol = "[❯](red)"
+vimcmd_symbol = "[❮](green)"
+
+# Git branch format
+[git_branch]
+format = "[$branch]($style)"
+style = "bright-black"
+
+# Git status format
+[git_status]
+format = "([$ahead_behind$stashed]($style))"
+style = "cyan"
+conflicted = "​"
+untracked = "​"
+modified = "​"
+staged = "​"
+renamed = "​"
+deleted = "​"
+stashed = "≡"
+
+# Git state format
+[git_state]
+format = "([$state($progress_current/$progress_total)]($style))"
+style = "bright-black"
+
+# Command duration format
+[cmd_duration]
+format = "[$duration]($style) "
+style = "yellow"
+
+# Python virtual environment format
+[python]
+format = "[$virtualenv]($style) "
+style = "bright-black"
+
