@@ -20,5 +20,12 @@ Bar: Waybar
 
 **The rest of the apps I use can be found in `neededapps.txt`**
 
+<details>
+    <summary>MPV Scripts</summary>
+mpv-osc-modern by maoiscat<br>
+mpv-notify-send by Parranoh<br>
+mpv-playlistmanager by jonniek
+</details>
+
 previews:
 
