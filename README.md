@@ -27,7 +27,7 @@ mpv-notify-send by Parranoh<br>
 mpv-playlistmanager by jonniek
 </details>
 
-previews:
+previews:<br><br>
 ![alt text](https://i.imgur.com/SNy0qwN.png)
 ![alt text](https://i.imgur.com/GMKH4j5.png)
-![alt text](https://i.imgur.com/BU2lngt.png)
+![alt text](https://i.imgur.com/uzFKzZq.png)
